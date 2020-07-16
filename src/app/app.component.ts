@@ -18,6 +18,11 @@ export class AppComponent implements OnInit {
       icon: 'mail'
     },
     {
+      title: 'Chart',
+      url: 'chart',
+      icon: 'mail'
+    },
+    {
       title: 'Outbox',
       url: '/folder/Outbox',
       icon: 'paper-plane'
